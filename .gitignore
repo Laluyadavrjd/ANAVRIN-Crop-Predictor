@@ -1,0 +1,43 @@
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Machine Learning Models (regenerated files)
+*.joblib
+*.pkl
+*.h5
+
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Streamlit
+.streamlit/secrets.toml
+
+
+crop_env
+
+
+Miniconda3-latest-MacOSX-arm64.sh
