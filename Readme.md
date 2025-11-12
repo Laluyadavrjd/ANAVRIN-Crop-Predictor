@@ -174,17 +174,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 👨‍💻 **Author**
-
-**Anshmaan Singh**
-- 📧 Email: [anshmaansingh@icloud.com]
-
-
----
-
-
-
-<div align="center">
 
 
 
