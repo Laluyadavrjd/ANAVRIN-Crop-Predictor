@@ -13,7 +13,7 @@ __pycache__/
 *.joblib
 *.pkl
 *.h5
-
+models/
 
 # OS generated files
 .DS_Store
