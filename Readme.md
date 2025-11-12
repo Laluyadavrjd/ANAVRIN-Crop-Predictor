@@ -79,7 +79,7 @@
 ### **Local Development**
 
 1. **Clone the repository**
-git clone https://github.com/Anshmaan29/anavrin-crop-predictor.git cd anavrin-crop-predictor
+git clone https://github.com/Laluyadavrjd/anavrin-crop-predictor.git cd anavrin-crop-predictor
 
 2. **Create virtual environment**
 python -m venv crop_env source crop_env/bin/activate  # On Windows: crop_env\Scripts\activate
@@ -186,12 +186,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-### 🌟 **Star this repository if it helped you!**
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/anavrin-crop-predictor.svg?style=social&label=Star)](https://github.com/yourusername/anavrin-crop-predictor)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/anavrin-crop-predictor.svg?style=social&label=Fork)](https://github.com/yourusername/anavrin-crop-predictor/fork)
-
-**Made with ❤️ for farmers and agriculture enthusiasts**
-
-</div>
 
